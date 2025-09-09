@@ -38,27 +38,20 @@ pip install -r requirements.txt
 
 Follow these steps to launch the Customer Churn Prediction Streamlit app locally:
 
-1.Navigate to the project folder**:
-
-```bash
+1.Navigate to the project folder:
+bash
 cd churn-prediction
 
 2.Install the required Python packages (if not already installed):
-
 pip install -r requirements.txt
 
 3.Run the Streamlit app:
-
 streamlit run streamlit_app.py
 
 4.Open the app in your browser:
-
 Once the app is running, Streamlit will provide a local URL, usually:
-
 http://localhost:8501
 
-
----
 
 ## Technologies Used
 - Python, Pandas, NumPy  
