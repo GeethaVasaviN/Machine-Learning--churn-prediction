@@ -19,17 +19,6 @@ It uses machine learning models and provides a real-time interactive dashboard u
 
 ---
 
-## Folder Structure
-
-churn-prediction/
-├── ChurnPrediction.ipynb # Jupyter notebook with EDA, preprocessing, and model training
-├── streamlit_app.py # Streamlit web app
-├── churn_model.pkl # Trained model file
-├── model_features.pkl # Features used in the model
-├── requirements.txt # Required Python packages
-└── data
-└── WA_Fn-UseC_-Telco-Customer-Churn.csv
-
 ## Installation
 
 1. Clone the repository:
@@ -49,7 +38,7 @@ pip install -r requirements.txt
 
 Follow these steps to launch the Customer Churn Prediction Streamlit app locally:
 
-1. **Navigate to the project folder**:
+1.Navigate to the project folder**:
 
 ```bash
 cd churn-prediction
